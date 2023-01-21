@@ -1,0 +1,42 @@
+{
+  "Students": [
+    {
+      "name": "Michał",
+      "age": "24",
+      "gender": "helikopter",
+      "id": 2
+    },
+    {
+      "name": "Baltazar",
+      "age": "24",
+      "gender": "Mężczyzna",
+      "id": 3
+    },
+    {
+      "name": "abdul",
+      "age": "213",
+      "gender": "3",
+      "id": 4
+    }
+  ],
+  "Teachers": [
+    {
+      "name": "ads",
+      "age": "24",
+      "gender": "Mężczyzna",
+      "id": 1
+    },
+    {
+      "name": "Baltazar",
+      "age": "24",
+      "gender": "Mężczyzna",
+      "id": 2
+    },
+    {
+      "name": "ada",
+      "age": "2",
+      "gender": "3",
+      "id": 3
+    }
+  ]
+}

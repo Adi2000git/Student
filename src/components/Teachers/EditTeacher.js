@@ -39,7 +39,8 @@ const Editteacher = () => {
       </div>
       <div className="form-group">
         <input
-          type="text"
+          type="number"
+          min="0"
           className="form-control form-control-lg"
           placeholder="Enter Your age"
           name="age"

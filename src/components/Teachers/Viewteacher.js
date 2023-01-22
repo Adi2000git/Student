@@ -19,13 +19,13 @@ const Teacherview = () => {
   return (
     <div className="container py-4">
       <Link className="btn btn-primary" to="/teachers">
-        back to Home
+        Back to Home
       </Link>
       <h1 className="display-4">Teacher Id: {id}</h1>
       <hr />
       <ul className="list-group w-50">
-        <li className="list-group-item">name: {teacher.name}</li>
-        <li className="list-group-item">age: {teacher.age}</li>
+        <li className="list-group-item">Name: {teacher.name}</li>
+        <li className="list-group-item">Age: {teacher.age}</li>
         <li className="list-group-item">Gender: {teacher.gender}</li>
       </ul>
     </div>
